@@ -1,0 +1,2083 @@
+[
+  {
+    "Id": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+    "ParentId": null,
+    "Description": "basic data",
+    "ComponentName": "menu1",
+    "IconName": "list",
+    "IsReport": false,
+    "OrderNumber": 1,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "CountriesComponent",
+        "UrlPath": "/main/lookups/countries",
+        "IconName": "public",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "NationalitiesComponent",
+        "UrlPath": "/main/lookups/nationalities",
+        "IconName": "flag",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "ReligionsComponent",
+        "UrlPath": "/main/lookups/religions",
+        "IconName": "brightness_3",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "QualificationsComponent",
+        "UrlPath": "/main/lookups/qualifications",
+        "IconName": "school",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "8189daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "JobsComponent",
+        "UrlPath": "/main/lookups/jobs",
+        "IconName": "work",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "8289daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "JobDegreesComponent",
+        "UrlPath": "/main/lookups/jobDegrees",
+        "IconName": "trending_up",
+        "IsReport": false,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        "Id": "8389daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "ContractTypesComponent",
+        "UrlPath": "/main/lookups/contract-types",
+        "IconName": "import_contacts",
+        "IsReport": false,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "8320daad-1c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "AdmistrativeLevelsComponent",
+        "UrlPath": "/main/lookups/admistrativeLevel",
+        "IconName": "domain",
+        "IsReport": false,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        "Id": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "HolidaysComponent",
+        "UrlPath": "/main/lookups/holidays",
+        "IconName": "date_range",
+        "IsReport": false,
+        "OrderNumber": 10,
+        "CanShow": true
+      },
+      {
+        "Id": "8589daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "LocationsComponent",
+        "UrlPath": "/main/lookups/locations",
+        "IconName": "location_on",
+        "IsReport": false,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        "Id": "8689daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "FullDayPermissionsComponent",
+        "UrlPath": "/main/lookups/fullDayPermissions",
+        "IconName": "card_travel",
+        "IsReport": false,
+        "OrderNumber": 11,
+        "CanShow": true
+      },
+      {
+        "Id": "8789daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "PartialPermissionTypesComponent",
+        "UrlPath": "/main/lookups/partial-permission-types",
+        "IconName": "alarm_off",
+        "IsReport": false,
+        "OrderNumber": 12,
+        "CanShow": true
+      },
+      {
+        "Id": "8889daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "LeavetypesComponent",
+        "UrlPath": "/main/lookups/leavetypes",
+        "IconName": "weekend",
+        "IsReport": false,
+        "OrderNumber": 14,
+        "CanShow": true
+      },
+      {
+        "Id": "8989daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "LeaveRegulationsComponent",
+        "UrlPath": "/main/lookups/leaves-regulations",
+        "IconName": "subject",
+        "IsReport": false,
+        "OrderNumber": 15,
+        "CanShow": true
+      },
+      {
+        "Id": "8929daad-0c9f-44ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "LeaveRegulationLitesComponent",
+        "UrlPath": "/main/lookups/leaves-regulation-lites",
+        "IconName": "subject",
+        "IsReport": false,
+        "OrderNumber": 15,
+        "CanShow": true
+      },
+      {
+        "Id": "9089daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "AllowancesComponent",
+        "UrlPath": "/main/lookups/allowances",
+        "IconName": "alarm_on",
+        "IsReport": false,
+        "OrderNumber": 13,
+        "CanShow": true
+      },
+      {
+        "Id": "9189daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "OvertimeDatesComponent",
+        "UrlPath": "/main/lookups/overtime-dates",
+        "IconName": "alarm_add",
+        "IsReport": false,
+        "OrderNumber": 16,
+        "CanShow": true
+      },
+      {
+        "Id": "9289daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "LateRegulationsComponent",
+        "UrlPath": "/main/lookups/late-regulations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 17,
+        "CanShow": true
+      },
+      {
+        "Id": "9389daad-0c9f-46ba-825b-bc37d119bd47",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "DevicesComponent",
+        "UrlPath": "/main/lookups/devices",
+        "IconName": "perm_device_information",
+        "IsReport": false,
+        "OrderNumber": 18,
+        "CanShow": true
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825b-bc37d119bd50",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "AbsencesRegulationsComponent",
+        "UrlPath": "/main/lookups/absences-regulations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 19,
+        "CanShow": false
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825b-bc37d119bd56",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "OrganizationLatesRegulationsComponent",
+        "UrlPath": "/main/lookups/organization-lates-regulations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 20,
+        "CanShow": false
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825b-bc37d119bd57",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "OrganizationOvertimeRegulationsComponent",
+        "UrlPath": "/main/lookups/organization-overtime-regulations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 21,
+        "CanShow": false
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825b-bc37d119bd90",
+        "ParentId": "15655108-4a92-4bd8-8e81-cc174f86eebc",
+        "ComponentName": "CrossCloudOrganizationsComponent",
+        "UrlPath": "/main/lookups/Cross-Cloud-Organizations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 22,
+        "CanShow": false
+      }
+    ]
+  },
+  {
+    "Id": "2e043af4-0ed3-417a-a592-639c84c9b090",
+    "ParentId": null,
+    "Description": "transaction",
+    "ComponentName": "menu2",
+    "IconName": "people",
+    "IsReport": false,
+    "OrderNumber": 2,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "c446e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeesComponent",
+        "UrlPath": "/main/usermanagement/employees",
+        "IconName": "account_circle",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "c456e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "AdminmangersComponent",
+        "UrlPath": "/main/usermanagement/adminmangers",
+        "IconName": "supervisor_account",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "e6a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "TeamsComponent",
+        "UrlPath": "/main/duties/teams",
+        "IconName": "group_add",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "c466e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "PreviousLeavesBalancesComponent",
+        "UrlPath": "/main/leaves/previous-leaves-balances",
+        "IconName": "timeline",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "a937c70f-d295-4a9b-a970-55a44d310b1e",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "LeaveInServiceStartBalancesComponent",
+        "UrlPath": "/main/lookups/leave-inservice-start-balance",
+        "IconName": "timeline",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "a937c70f-d295-4a9b-a970-55a44d310b1b",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeLeavesBalanceComponent",
+        "UrlPath": "/main/leaves/employee-leaves-balance",
+        "IconName": "timeline",
+        "IsReport": false,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        "Id": "c476e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeLeavesComponent",
+        "UrlPath": "/main/leaves/employee-leaves",
+        "IconName": "hotel",
+        "IsReport": false,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "c476e9c7-fc23-4bec-bb17-a7a1da945333",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "SellLeaveBalancesComponent",
+        "UrlPath": "/main/leaves/sell-leave-balances",
+        "IconName": "timeline",
+        "IsReport": false,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        "Id": "c496e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeFulldayPermissionsComponent",
+        "UrlPath": "/main/permissions/employee-fullday-permissions",
+        "IconName": "card_travel",
+        "IsReport": false,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        "Id": "c506e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeePermissionsComponent",
+        "UrlPath": "/main/permissions/employee-permissions",
+        "IconName": "alarm_off",
+        "IsReport": false,
+        "OrderNumber": 10,
+        "CanShow": true
+      },
+      {
+        "Id": "c486e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeAlowancesComponent",
+        "UrlPath": "/main/permissions/employee-allowances",
+        "IconName": "alarm_on",
+        "IsReport": false,
+        "OrderNumber": 11,
+        "CanShow": true
+      },
+      {
+        "Id": "1226e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmergencyAllowancesComponent",
+        "UrlPath": "/main/permissions/emergency-allowances",
+        "IconName": "timer_off",
+        "IsReport": false,
+        "OrderNumber": 11,
+        "CanShow": true
+      },
+      {
+        "Id": "c516e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "HolidayDatesComponent",
+        "UrlPath": "/main/lookups/holidayDates",
+        "IconName": "date_range",
+        "IsReport": false,
+        "OrderNumber": 12,
+        "CanShow": true
+      },
+      {
+        "Id": "1234e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "OvertimeOrdersComponent",
+        "UrlPath": "/main/permissions/overtime-orders",
+        "IconName": "add_alarm",
+        "IsReport": false,
+        "OrderNumber": 13,
+        "CanShow": true
+      },
+      {
+        "Id": "c13acb26-6d39-40e9-831d-2dbcc01c0b5a",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "ApproveOvertimeComponent",
+        "UrlPath": "/main/permissions/approve-overtime",
+        "IconName": "add_alarm",
+        "IsReport": false,
+        "OrderNumber": 14,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-38a1-49ce-bde1-103bdde72943",
+        "ParentId": "2e043af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "AdministrativeDecisionComponent",
+        "UrlPath": "/main/memos/administrative-decision",
+        "IconName": "data_usage",
+        "IsReport": false,
+        "OrderNumber": 15,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+    "ParentId": null,
+    "Description": "Duties",
+    "ComponentName": "menu3",
+    "IconName": "access_time",
+    "IsReport": false,
+    "OrderNumber": 3,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "e1a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "FixeddutiesComponent",
+        "UrlPath": "/main/duties/fixedduties",
+        "IconName": "schedule",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "e2a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "FreeDutiesComponent",
+        "UrlPath": "/main/duties/freeduties",
+        "IconName": "schedule",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "e3a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "RotatedDutiesComponent",
+        "UrlPath": "/main/duties/rotatedduties",
+        "IconName": "schedule",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "e4a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "DailyRotatedSchedulesComponent",
+        "UrlPath": "/main/duties/daily-rotated-schedule",
+        "IconName": "today",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "e5a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "HourlyDutiesComponent",
+        "UrlPath": "/main/duties/hourly-rotated-duties",
+        "IconName": "today",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+
+      {
+        "Id": "e7a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "EmployeeDutyComponent",
+        "UrlPath": "/main/duties/employeeduty",
+        "IconName": "person_add",
+        "IsReport": false,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        "Id": "e8a82e92-137b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "ShiftsComponent",
+        "UrlPath": "/main/duties/EmployeeFixedDutyPeriod",
+        "IconName": "person_add",
+        "IsReport": false,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "e8a82e92-447b-47ca-a073-72e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "ShiftsKunaComponent",
+        "UrlPath": "/main/duties/EmployeeFixedDutyPeriodKuna",
+        "IconName": "person_add",
+        "IsReport": false,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        "Id": "e8a82e92-447b-47ca-a073-72e730b82c7d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "HrShiftsKunaComponent",
+        "UrlPath": "/main/duties/hrshiftkuna",
+        "IconName": "person_add",
+        "IsReport": false,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        "Id": "e8a82e92-137b-47ca-a073-55e730b82c6d",
+        "ParentId": "f2e5ed25-cba3-45a2-ad8f-85caf39a55cb",
+        "ComponentName": "AssignDutyWithAdminstrationsComponent",
+        "UrlPath": "/main/duties/assign-duty-with-adminstrations",
+        "IconName": "person_add",
+        "IsReport": false,
+        "OrderNumber": 10,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+    "ParentId": null,
+    "Description": "usermangement",
+    "ComponentName": "menu4",
+    "IconName": "lock",
+    "IsReport": false,
+    "OrderNumber": 4,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "90ee3f27-6a95-46e4-b177-8aa86115d85c",
+        "ParentId": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+        "ComponentName": "GroupsComponent",
+        "UrlPath": "/main/usermanagement/groups",
+        "IconName": "people_outline",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "91ee3f27-6a95-46e4-b177-8aa86115d85c",
+        "ParentId": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+        "ComponentName": "GroupRolesComponent",
+        "UrlPath": "/main/usermanagement/group-roles",
+        "IconName": "lock_open",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "92ee3f27-6a95-46e4-b177-8aa86115d85c",
+        "ParentId": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+        "ComponentName": "UsermangmentsComponent",
+        "UrlPath": "/main/usermanagement/usermangments",
+        "IconName": "perm_identity",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "93ee3f27-6a95-46e4-b177-8aa86115d85c",
+        "ParentId": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+        "ComponentName": "UserInquiriesComponent",
+        "UrlPath": "/main/usermanagement/UserInquiries",
+        "IconName": "perm_identity",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "93ee3f27-6a95-46e4-b177-8aa86225d85c",
+        "ParentId": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+        "ComponentName": "LockYearForGroupsComponent",
+        "UrlPath": "/main/usermanagement/lock-year-for-groups",
+        "IconName": "lock_open",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "93ee3f27-6a95-46e4-b199-8aa86225d85c",
+        "ParentId": "1382b1a6-b38a-4112-87c8-4a46cf00907b",
+        "ComponentName": "FaceRegistration",
+        "UrlPath": "/main/usermanagement/user-face",
+        "IconName": "perm_identity",
+        "IsReport": false,
+        "OrderNumber": 6,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+    "ParentId": null,
+    "Description": "attendancelog",
+    "ComponentName": "menu5",
+    "IconName": "fingerprint",
+    "IsReport": false,
+    "OrderNumber": 5,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "ab168b4c-4c18-4208-aa0b-f350ba8fe929",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "EmployeeLogsComponent",
+        "UrlPath": "/main/logs/manualLogs",
+        "IconName": "fingerprint",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "ab268b4c-4c18-4208-aa0b-f350ba8fe929",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "ImportExcelComponent",
+        "UrlPath": "/main/logs/sheetLogs",
+        "IconName": "import_export",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-4208-aa0b-f350ba8fe929",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "EmployeeAttedancesComponent",
+        "UrlPath": "/main/logs/employeeAttendances",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-4209-aa0b-f350ba8fe949",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "EmployeeAbsenceLogsComponent",
+        "UrlPath": "/main/logs/employee-absence-logs",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-4209-aa0b-f350ba8fe950",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "ReviewLogsComponent",
+        "UrlPath": "/main/logs/review-Logs",
+        "IconName": "check_circle",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-4209-aa0b-f350ba8fe956",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "SyncLogsExceptionsComponent",
+        "UrlPath": "/main/logs/sync-logs-exceptions",
+        "IconName": "block",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-4209-aa0b-f350ba8fe959",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "LogsDriveSettingsComponent",
+        "UrlPath": "/main/logs/logs-drive-settings",
+        "IconName": "cloud",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-3309-aa0b-f350ba8fe999",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "UnknownUserLogsComponent",
+        "UrlPath": "/main/logs/unknown-employee",
+        "IconName": "fingerprint",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-3309-aa0b-f350ba8fe555",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "EmployeeAttendanceEditInDbComponent",
+        "UrlPath": "/main/logs/employee-attendance-edit-in-db",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-3309-aa0b-f350ba8fe666",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "SendingLogsSettingsComponent",
+        "UrlPath": "/main/logs/sending-logs-settings",
+        "IconName": "settings",
+        "IsReport": false,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-3309-aa0b-f350ba8fe677",
+        "ParentId": "bb930a1e-97d2-4644-a44f-07c4a8e20f34",
+        "ComponentName": "EmployeeOutOfWorkComponent",
+        "UrlPath": "/main/logs/employee-out-of-work",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 9,
+        "CanShow": true
+      }
+    ]
+  },
+
+  {
+    "Id": "93ee3f27-6a95-98e4-b177-8aa86119d85c",
+    "ParentId": null,
+    "Description": "audits",
+    "ComponentName": "menu7",
+    "IconName": "history",
+    "IsReport": false,
+    "OrderNumber": 6,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "93ee3f36-6a95-98e6-b177-8aa86185d85c",
+        "ParentId": "93ee3f27-6a95-98e4-b177-8aa86119d85c",
+        "ComponentName": "AuditsGridComponent",
+        "UrlPath": "/main/audits/audits-log",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "93ee3f36-6a95-98e6-b188-7aa76185d75c",
+        "ParentId": "93ee3f27-6a95-98e4-b177-8aa86119d85c",
+        "ComponentName": "AutoSolveAuditComponent",
+        "UrlPath": "/main/audits/auto-solve-audit",
+        "IconName": "fingerprint",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "93ee3f36-6a96-98e6-b188-7aa76185d76c",
+        "ParentId": "93ee3f27-6a95-98e4-b177-8aa86119d85c",
+        "ComponentName": "AuditUserActionComponent",
+        "UrlPath": "/main/audits/audit-user-action",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "54ee3f27-6a95-98e4-c188-6bb86119d85c",
+    "ParentId": null,
+    "Description": "workflow",
+    "ComponentName": "menu8",
+    "IconName": "dashboard",
+    "IsReport": false,
+    "OrderNumber": 7,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "54ee3f36-6a95-98e6-b177-8aa861850001",
+        "ParentId": "54ee3f27-6a95-98e4-c188-6bb86119d85c",
+        "ComponentName": "WorkflowTemplateComponent",
+        "UrlPath": "/main/workflows/workflow-template",
+        "IconName": "dashboard",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "54ee3f36-6a95-98e6-b177-8aa861850002",
+        "ParentId": "54ee3f27-6a95-98e4-c188-6bb86119d85c",
+        "ComponentName": "WorkflowStatusNotApprovedComponent",
+        "UrlPath": "/main/workflows/workflow-status-not-approved",
+        "IconName": "dashboard",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "cc930a1e-97d2-4642-a44f-07c4a8e20f36",
+    "ParentId": null,
+    "Description": "LockTheYear",
+    "ComponentName": "menu9",
+    "IconName": "lock",
+    "IsReport": false,
+    "OrderNumber": 8,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "ab168b4b-4c18-4208-aa0b-f350ba8fe933",
+        "ParentId": "cc930a1e-97d2-4642-a44f-07c4a8e20f36",
+        "ComponentName": "LockLeavesComponent",
+        "UrlPath": "/main/lock-year/lock-leaves",
+        "IconName": "lock",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "18c02172-1ea5-4e4e-a5e2-ec0ce5c310ef",
+    "ParentId": null,
+    "Description": "HR",
+    "ComponentName": "menu10",
+    "IconName": "notifications_active",
+    "IsReport": false,
+    "OrderNumber": 9,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "39aab175-d4fd-4108-8e8a-590dabaa6b44",
+        "ParentId": "18c02172-1ea5-4e4e-a5e2-ec0ce5c310ef",
+        "ComponentName": "NotificationsNewsGridComponent",
+        "UrlPath": "/main/notification-news/notification-news-grid",
+        "IconName": "notifications_active",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "15655108-4a92-4bd8-8e91-cc174f86eebc",
+    "ParentId": null,
+    "Description": "Organization",
+    "ComponentName": "OrganizationComponent",
+    "IconName": "list",
+    "IsReport": false,
+    "OrderNumber": 1,
+    "CanShow": false,
+    "Childerns": []
+  },
+  {
+    "Id": "18c02172-1ea5-4e4e-a6e2-ec0ce5c318ef",
+    "ParentId": null,
+    "Description": "Breaks",
+    "ComponentName": "menu11",
+    "IconName": "alarm",
+    "IsReport": false,
+    "OrderNumber": 10,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "36aab155-d4fd-4508-8e8a-590dabaa6b44",
+        "ParentId": "18c02172-1ea5-4e4e-a6e2-ec0ce5c318ef",
+        "ComponentName": "BreakSettingComponent",
+        "UrlPath": "/main/breaks/break-setting",
+        "IconName": "settings",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "36aab188-d4fd-4508-8e8a-590dabaa6b68",
+        "ParentId": "18c02172-1ea5-4e4e-a6e2-ec0ce5c318ef",
+        "ComponentName": "EmployeesbreakComponent",
+        "UrlPath": "/main/breaks/employees-break",
+        "IconName": "alarm_on",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "36aab188-d4fd-4508-8e8a-590dabaa6b70",
+        "ParentId": "18c02172-1ea5-4e4e-a6e2-ec0ce5c318ef",
+        "ComponentName": "EmployeebreakreportComponent",
+        "UrlPath": "/main/breaks/employee-break-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "36aab188-d4fd-4508-8e8a-590dabaa6b75",
+        "ParentId": "18c02172-1ea5-4e4e-a6e2-ec0ce5c318ef",
+        "ComponentName": "EmployeeAttendanceWithBreakComponent",
+        "UrlPath": "/main/breaks/employee-attendance-with-break",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 4,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+    "ParentId": null,
+    "Description": "Penalties",
+    "ComponentName": "menu12",
+    "IconName": "view_agenda",
+    "IsReport": false,
+    "OrderNumber": 11,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "7538a848-3cda-4acf-a128-f64dbab21899",
+        "ParentId": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+        "ComponentName": "EvaluationSettingsComponent",
+        "UrlPath": "/main/penalties/evaluation-setting",
+        "IconName": "view_agenda",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "8770758b-7c07-4412-b42d-e45d119d2cd3",
+        "ParentId": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+        "ComponentName": "PenaltieTypesComponent",
+        "UrlPath": "/main/penalties/penaltie-types",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "8770758b-7c07-4412-b42d-e45d119d2cd4",
+        "ParentId": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+        "ComponentName": "EmployeePenaltiesComponent",
+        "UrlPath": "/main/penalties/employees-penalties",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "e1398770-5fad-443f-afdd-dd45b212a0cb",
+        "ParentId": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+        "ComponentName": "PenaltieGroupsComponent",
+        "UrlPath": "/main/penalties/penaltie-group",
+        "IconName": "view_agenda",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "5c3e00bf-d07b-4df3-8dc6-f8889d1c5fb2",
+        "ParentId": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+        "ComponentName": "PreviousEmployeeEvaluationComponent",
+        "UrlPath": "/main/penalties/previous-employee-evaluation",
+        "IconName": "view_agenda",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "2f45cc65-78db-4479-90a8-075987f02e81",
+        "ParentId": "33067c23-5dd8-4c55-a42b-8a55749f9728",
+        "ComponentName": "CalculateEmployeeEvaluationComponent",
+        "UrlPath": "/main/penalties/calculate-employee-evaluation",
+        "IconName": "view_agenda",
+        "IsReport": false,
+        "OrderNumber": 6,
+        "CanShow": true
+      }
+
+
+    ]
+  },
+  {
+    "Id": "5a143af4-0ed3-417a-a592-639c84c9b090",
+    "ParentId": null,
+    "Description": "reports",
+    "ComponentName": "menu6",
+    "IconName": "receipt",
+    "IsReport": true,
+    "OrderNumber": 12,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "d556e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeAttendanceReportComponent",
+        "UrlPath": "/main/reports/employee-attendance-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "d556e9c7-fc23-4bec-bb99-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeAttendanceKunaReportComponent",
+        "UrlPath": "/main/reports/employee-attendance-Kuna-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "e666e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeLeavesReportComponent",
+        "UrlPath": "/main/reports/employee-leaves-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "a826e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeePermissionsReportComponent",
+        "UrlPath": "/main/reports/employee-permissions-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "b926e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeDutiesReportComponent",
+        "UrlPath": "/main/reports/employee-duties-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "c526e9c7-fc23-4bec-bb17-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeFulldayPermissionsReportComponent",
+        "UrlPath": "/main/reports/employee-fullday-permissions-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "e36edfa2-4ec6-4ad5-9c3f-463b4256c319",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeOverTimeOrdersReportComponent",
+        "UrlPath": "/main/reports/employee-OverTime-Orders-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        "Id": "e37edfa2-5ec6-4ad5-9c3f-463b4256c319",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeePermissionsBalanceReportComponent",
+        "UrlPath": "/main/reports/employee-Permissions-Balance-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "e38edfa3-5bc6-4bd5-9c3f-463b4256c319",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeLeavesBalanceReportComponent",
+        "UrlPath": "/main/reports/employee-Leaves-Balance-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        "Id": "e39edfb2-5ec6-4ad5-9c3f-473b4256c319",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "CalculateEmployeeOverTimeReportComponent",
+        "UrlPath": "/main/reports/calculate-employee-OverTime-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        "Id": "e39edfb2-5ec6-4ad5-9c3f-473b3356c319",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "CalculateEmployeeOverTimeKunaReportComponent",
+        "UrlPath": "/main/reports/calculate-employee-OverTime-kuna-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        "Id": "c526e9c7-fc23-4bec-bb17-a7a1da945652",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeDeductionReportComponent",
+        "UrlPath": "/main/reports/employee-Deduction-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 10,
+        "CanShow": true
+      },
+
+      {
+        "Id": "c526e9c7-fc23-4bec-bb17-a7a1da945552",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeOnServiceReportComponent",
+        "UrlPath": "/main/reports/employee-onservice-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 11,
+        "CanShow": true
+      },
+      {
+        "Id": "c536e9c7-fc23-4bec-bb17-a7a1da945652",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "AdminMangerComponent",
+        "UrlPath": "/main/reports/admin-manger",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 12,
+        "CanShow": true
+      },
+      {
+        "Id": "b926e9c7-fc23-4bec-aa17-a7a1da945632",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeAllowancesReportComponent",
+        "UrlPath": "/main/reports/employee-allowances-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 13,
+        "CanShow": true
+      },
+      {
+        "Id": "b926e9c7-fc23-4bec-aa17-a7a1da945631",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "UserRolesReportComponent",
+        "UrlPath": "/main/reports/user-roles-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 14,
+        "CanShow": true
+      },
+      {
+        "Id": "06d10572-1a5e-4723-a49b-718e15a8641f",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeWithoutFingerprintReportComponent",
+        "UrlPath": "/main/reports/employee-without-fingerprin-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 15,
+        "CanShow": true
+      },
+      {
+        "Id": "2db422f3-f497-4301-abfe-58995a1e17f0",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "ApproveOvertimeReportComponent",
+        "UrlPath": "/main/reports/approve-overtime-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 16,
+        "CanShow": true
+      },
+      {
+        "Id": "2db422f3-f497-4301-abfe-58995a1e18f1",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeesEvaluationReportComponent",
+        "UrlPath": "/main/reports/employees-evaluation-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 17,
+        "CanShow": true
+      },
+      {
+        "Id": "df1dbf09302e4b1d94c676a3d0eb4560",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "ActualWorkingReportComponent",
+        "UrlPath": "/main/reports/actual-working-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 18,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-9c18-3309-aa0b-f350ba8fe449",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmloyeeLogsWithImageComponent",
+        "UrlPath": "/main/reports/emloyee-logs-with-image",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 19,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-33a1-48ce-bde3-103bdde71331",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "UnKnownUserReportComponent",
+        "UrlPath": "/main/reports/un-knownuser-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 20,
+        "CanShow": true
+      },
+
+      {
+        "Id": "146d3f84-33a1-48ce-bde3-103bdde75431",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "ConvertUnKnownUserReportComponent",
+        "UrlPath": "/main/reports/convert-un-knownuser-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 21,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-33a1-48ce-bde3-103bdde71332",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeesPenaltiesReportComponent",
+        "UrlPath": "/main/reports/employees-penalties-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 22,
+        "CanShow": true
+      },
+      {
+        //report
+        "Id": "146d3f84-36a1-49ce-bde1-103bdde75742",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "MonthlySpeciaFinalPaaetReportComponent",
+        "UrlPath": "/main/reports/monthly-specia-final-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 23,
+        "CanShow": true
+      },
+      {
+        //report
+        "Id": "146d3f84-46a1-49ce-bde1-103bdde85742",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "OverTimePaaetReportComponent",
+        "UrlPath": "/main/reports/over-time-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 24,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-46a1-49ce-bde1-103bdde85752",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeAttendanceFlexibleDutyReportComponent",
+        "UrlPath": "/main/reports/employee-attendance-flexible-duty-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 25,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-46a1-49ce-bde1-103bdde85762",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeStatusCaptReportComponent",
+        "UrlPath": "/main/reports/employee-status-capt-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 26,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-47a1-59ce-bde1-103bdde85772",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeDutyShiftSummaryKunaReportComponent",
+        "UrlPath": "/main/reports/employee-duty-shift-summary-kuna-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 27,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-47a1-59ce-bde1-103bdde85775",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeTimeSheetReportComponent",
+        "UrlPath": "/main/reports/employee-time-sheet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 28,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-47a1-59ce-bde1-103bdde85777",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeAttedanceLogsReportComponent",
+        "UrlPath": "/main/reports/employee-attedance-logs-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 29,
+        "CanShow": true
+      },
+      {
+        "Id": "146d3f84-47a1-59ce-bde1-103bdde85888",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "ActualWorkingDayPerMonthReportComponent",
+        "UrlPath": "/main/reports/actual-working-day-per-month-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 30,
+        "CanShow": true
+      },
+
+      {
+        "Id": "146d3f84-47a1-59ce-bde1-103bdde85999",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "AdditonalSignProofReportComponent",
+        "UrlPath": "/main/reports/additonal-sign-proof-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 31,
+        "CanShow": true
+      },
+      {
+        "Id": "e666e9c7-fc23-4bec-bb17-a7a1da945645",
+        "ParentId": "5a143af4-0ed3-417a-a592-639c84c9b090",
+        "ComponentName": "EmployeeOutOfWorksReportComponent",
+        "UrlPath": "/main/reports/employee-out-of-works-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 32,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+    "ParentId": null,
+    "Description": "Memos",
+    "ComponentName": "menu13",
+    "IconName": "book",
+    "IsReport": true,
+    "OrderNumber": 13,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "32aab175-d4fd-4108-8e8a-590dabaa6b14",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "MemosLateInReportComponent",
+        "UrlPath": "/main/memos/memos-late-in-report",
+        "IconName": "book",
+        "IsReport": true,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "32aab175-d4fd-4108-8e8a-590dabaa6b15",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "DeductionMemoComponent",
+        "UrlPath": "/main/memos/deduction-memo",
+        "IconName": "book",
+        "IsReport": true,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "32aab175-d4fd-4108-8e8a-590dabaa6b19",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "EmployeeAbsenceReportComponent",
+        "UrlPath": "/main/memos/employee-absences-report",
+        "IconName": "book",
+        "IsReport": true,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "e4e72d50-86d5-4eea-a2c6-f02f3cd2d2b6",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "MemoEarlyOutReportComponent",
+        "UrlPath": "/main/memos/memo-early-out-report",
+        "IconName": "book",
+        "IsReport": true,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "e4e72d50-87d5-4eea-a2c6-f02f3cd3d3b6",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "MemoDeductionFinanciallFinalPaaetReportComponent",
+        "UrlPath": "/main/memos/memo-deduction-financiall-final-paaet-report",
+        "IconName": "book",
+        "IsReport": true,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-33a1-48ce-bde1-103bdde75432",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "DeductionAllPaaetReportComponent",
+        "UrlPath": "/main/memos/deduction-all-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-33a1-49ce-bde1-103bdde75442",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "NoSignOutPaaetReportComponent",
+        "UrlPath": "/main/memos/no-sign-out-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-34a1-49ce-bde1-103bdde75542",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "NoSignInPaaetReportComponent",
+        "UrlPath": "/main/memos/no-sign-in-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-35a1-49ce-bde1-103bdde75642",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "DeductionDayOrMoreThanDayPaaetReportComponent",
+        "UrlPath": "/main/memos/deduction-day-or-more-than-day-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-37a1-49ce-bde1-103bdde75842",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "DeductionLegaiPaaetReportComponent",
+        "UrlPath": "/main/memos/deduction-legai-paaet-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 10,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "146d3f84-38a1-49ce-bde1-103bdde75942",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "AnnualAppraisalCaptReportComponent",
+        "UrlPath": "/main/memos/annual-appraisal-capt-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 11,
+        "CanShow": true
+      },
+
+      {
+        //memo
+        "Id": "146d3f84-55a1-49ce-bde1-103bdde72944",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "CaptChildrenBonusDecisionReportComponent",
+        "UrlPath": "/main/memos/capt-children-bonus-decision-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 12,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "246d3f84-55a1-49ce-bde1-113bdde72944",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "CaptMarriageBonusDecisionReportComponent",
+        "UrlPath": "/main/memos/capt-marriage-bonus-decision-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 13,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "256d3f82-55a1-49ce-bde1-113bdde72944",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "CaptMotherhoodDecisionReportComponent",
+        "UrlPath": "/main/memos/capt-Motherhood-decision-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 14,
+        "CanShow": true
+      },
+      {
+        //memo
+        "Id": "256d3f91-55a1-49ce-bde1-113bdde72944",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "CaptJobUpgradeDecisionReportComponent",
+        "UrlPath": "/main/memos/capt-job-upgrade-decision-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 15,
+        "CanShow": true
+      },
+
+      {
+        "Id": "256d3f91-55a2-49ce-bde2-113bdde72945",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "NoSignInKunaReportComponent",
+        "UrlPath": "/main/memos/no-sign-in-kuna-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 16,
+        "CanShow": true
+      },
+
+      {
+        "Id": "256d3f91-55a3-49ce-bde3-113bdde72946",
+        "ParentId": "18c02122-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "NoSignOutKunaReportComponent",
+        "UrlPath": "/main/memos/no-sign-out-kuna-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 17,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "18c02133-1ea5-4e4e-a6e2-ec0ce5c310ef",
+    "ParentId": null,
+    "Description": "HR",
+    "ComponentName": "menu14",
+    "IconName": "book",
+    "IsReport": true,
+    "OrderNumber": 14,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "32aab175-d4fd-6408-8e8a-590dabaa6b14",
+        "ParentId": "18c02133-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "ChangeEmployeeTotalLateInAndOutComponent",
+        "UrlPath": "/main/hrs/change-employee-total-late-in-and-out",
+        "IconName": "book",
+        "IsReport": true,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "ab368b4c-4c18-4209-aa0b-f350ba8fe990",
+        "ParentId": "18c02133-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "EmployeesAbsencesComponent",
+        "UrlPath": "/main/hrs/employees-absences",
+        "IconName": "fingerprint",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      }
+
+    ]
+  },
+  //screens of aum
+  {
+    "Id": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+    "ParentId": null,
+    "Description": "basic data",
+    "ComponentName": "menu1",
+    "IconName": "list",
+    "IsReport": false,
+    "OrderNumber": 1,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "13b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "BranchesComponent",
+        "UrlPath": "/main/lookups/branches",
+        "IconName": "location_city",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "14b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "DepartmentsComponent",
+        "UrlPath": "/main/lookups/departments",
+        "IconName": "domain",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "15b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "LocationsComponent",
+        "UrlPath": "/main/lookups/locations",
+        "IconName": "location_on",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "16b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "DevicesComponent",
+        "UrlPath": "/main/lookups/devices",
+        "IconName": "devices_other",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+      {
+        "Id": "17b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "GroupsComponent",
+        "UrlPath": "/main/lookups/groups",
+        "IconName": "groups",
+        "IsReport": false,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+      {
+        "Id": "18b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "TriggersComponent",
+        "UrlPath": "/main/lookups/triggers",
+        "IconName": "thumb_up",
+        "IsReport": false,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        "Id": "19b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "AccessDoorsComponent",
+        "UrlPath": "/main/lookups/accessDoors",
+        "IconName": "door_front",
+        "IsReport": false,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "20b748c1-a7c5-4ea4-a41b-ee73f87abb1e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "HolidaiesComponent",
+        "UrlPath": "/main/lookups/holidaies",
+        "IconName": "date_range",
+        "IsReport": false,
+        "OrderNumber": 8,
+        "CanShow": true
+      },
+      {
+        "Id": "20b748c1-a7c5-4ea4-a41b-ee73f87abb3e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "JobsComponent",
+        "UrlPath": "/main/lookups/jobs",
+        "IconName": "work",
+        "IsReport": false,
+        "OrderNumber": 9,
+        "CanShow": true
+      },
+      {
+        "Id": "20b248c1-a7c5-4ea4-a31b-ee73f87abb3e",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "AdmistrativeLevelsComponent",
+        "UrlPath": "/main/lookups/admistrativeLevel",
+        "IconName": "domain",
+        "IsReport": false,
+        "OrderNumber": 10,
+        "CanShow": true
+      },
+      {
+        "Id": "759e7936-8211-4adc-ad85-0863a0962156",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "DeviceMonitorComponent",
+        "UrlPath": "/main/lookups/device-monitor",
+        "IconName": "data_usage",
+        "IsReport": false,
+        "OrderNumber": 11,
+        "CanShow": true
+      },
+      {
+        "Id": "f07cb184-9472-4d7e-a89d-555ed666f397",
+        "ParentId": "13adfe94-2fa7-4046-a2c4-118ae00a5cbe",
+        "ComponentName": "EmployeeMessagesComponent",
+        "UrlPath": "/main/lookups/employee-messages",
+        "IconName": "data_usage",
+        "IsReport": false,
+        "OrderNumber": 12,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "ed8988cd-bbe5-4757-ac78-a7e29f60301b",
+    "ParentId": null,
+    "Description": "transaction",
+    "ComponentName": "menu2",
+    "IconName": "people",
+    "IsReport": false,
+    "OrderNumber": 2,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "3387834b-5960-4c26-983f-6373eb58b1c3",
+        "ParentId": "ed8988cd-bbe5-4757-ac78-a7e29f60301b",
+        "ComponentName": "EmployeesComponent",
+        "UrlPath": "/main/usermanagement/employees",
+        "IconName": "account_circle",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+
+      {
+        "Id": "3587834b-5960-4c26-983f-6373eb58b1c3",
+        "ParentId": "ed8988cd-bbe5-4757-ac78-a7e29f60301b",
+        "ComponentName": "GroupEmployeesComponent",
+        "UrlPath": "/main/usermanagement/group-employees",
+        "IconName": "group_add",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "3587834b-5240-4c26-983f-6373eb58b1c3",
+        "ParentId": "ed8988cd-bbe5-4757-ac78-a7e29f60301b",
+        "ComponentName": "EmployeeDetailsComponent",
+        "UrlPath": "/main/usermanagement/employee-detail",
+        "IconName": "group_add",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "3227834b-5240-4c26-983f-6373eb58b1c3",
+        "ParentId": "ed8988cd-bbe5-4757-ac78-a7e29f60301b",
+        "ComponentName": "EmployeeEnrollsComponent",
+        "UrlPath": "/main/usermanagement/employee-enroll",
+        "IconName": "group_add",
+        "IsReport": false,
+        "OrderNumber": 4,
+        "CanShow": true
+      }
+
+    ]
+  },
+  {
+    "Id": "15d48624-f880-44be-96b9-afe2f03606ac",
+    "ParentId": null,
+    "Description": "AccessGroups",
+    "ComponentName": "menu3",
+    "IconName": "group",
+    "IsReport": false,
+    "OrderNumber": 3,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "ff96a778-21f2-418f-972f-ad121ea7b93d",
+        "ParentId": "15d48624-f880-44be-96b9-afe2f03606ac",
+        "ComponentName": "AccessGroupsComponent",
+        "UrlPath": "/main/accessGroups/accessGroups",
+        "IconName": "group",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "ff97a778-21f2-418f-972f-ad121ea7b93d",
+        "ParentId": "15d48624-f880-44be-96b9-afe2f03606ac",
+        "ComponentName": "AccessGroupsWithDevicesComponent",
+        "UrlPath": "/main/accessGroups/accessGroupsDevices",
+        "IconName": "mobile_screen_share",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "ff98a778-21f2-418f-972f-ad121ea7b93d",
+        "ParentId": "15d48624-f880-44be-96b9-afe2f03606ac",
+        "ComponentName": "AccessGroupsWithEmployeesComponent",
+        "UrlPath": "/main/accessGroups/accessGroupsEmployees",
+        "IconName": "group_add",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "44db8859-8d41-4a86-97e7-ede5c508b521",
+    "ParentId": null,
+    "Description": "AUMRoles",
+    "ComponentName": "menu4",
+    "IconName": "lock",
+    "IsReport": false,
+    "OrderNumber": 4,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "5430edf1-fb5a-42b9-a942-f52653966df2",
+        "ParentId": "44db8859-8d41-4a86-97e7-ede5c508b521",
+        "ComponentName": "RolesComponent",
+        "UrlPath": "/main/lookups/roles",
+        "IconName": "people_outline",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "5530edf1-fb5a-42b9-a942-f52653966df2",
+        "ParentId": "44db8859-8d41-4a86-97e7-ede5c508b521",
+        "ComponentName": "GroupRolesComponent",
+        "UrlPath": "/main/usermanagement/group-roles",
+        "IconName": "lock_open",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "5630edf1-fb5a-42b9-a942-f52653966df2",
+        "ParentId": "44db8859-8d41-4a86-97e7-ede5c508b521",
+        "ComponentName": "UsermangmentsComponent",
+        "UrlPath": "/main/usermanagement/usermangments",
+        "IconName": "perm_identity",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      }
+    ]
+  },
+
+  {
+    "Id": "6cb30dd3-944c-4426-8893-a3d1dae2455e",
+    "ParentId": null,
+    "Description": "AUMAttendance",
+    "ComponentName": "menu5",
+    "IconName": "fingerprint",
+    "IsReport": false,
+    "OrderNumber": 5,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "3687834b-5960-4c26-983f-6373eb58b1c3",
+        "ParentId": "6cb30dd3-944c-4426-8893-a3d1dae2455e",
+        "ComponentName": "EmployeesFingerprintComponent",
+        "UrlPath": "/main/attendance/employees-fingerprint",
+        "IconName": "fingerprint",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "3887834b-5960-4c26-983f-6373eb58b1c3",
+        "ParentId": "6cb30dd3-944c-4426-8893-a3d1dae2455e",
+        "ComponentName": "EmployeeManualLogsComponent",
+        "UrlPath": "/main/attendance/employee-manual-logs",
+        "IconName": "fingerprint",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "3787834b-5960-4c26-983f-6373eb58b1c3",
+        "ParentId": "6cb30dd3-944c-4426-8893-a3d1dae2455e",
+        "ComponentName": "EmployeeAttendancesComponent",
+        "UrlPath": "/main/attendance/employee-attendances",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+    "ParentId": null,
+    "Description": "Reports",
+    "ComponentName": "menu6",
+    "IconName": "receipt",
+    "IsReport": true,
+    "OrderNumber": 6,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "71dee0cc-c1b7-461e-9951-91bfa0b0206f",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "DeviceReportComponent",
+        "UrlPath": "/main/report/device-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "71dee0cc-c1b7-461e-9451-91bfa0b0208f",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "DeviceConnectEmployeesReportComponent",
+        "UrlPath": "/main/report/device-connectemployees-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "23cdd125-2105-4612-a779-216afd714ae8",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "EmployeeTransactionReportComponent",
+        "UrlPath": "/main/report/employee-transaction-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 3,
+        "CanShow": true
+      },
+      {
+        "Id": "e9e3fa9d-76ef-4b2c-b4d5-e43753a546ba",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "DeviceConnectGroupReportComponent",
+        "UrlPath": "/main/report/device-connect-group-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 4,
+        "CanShow": true
+      },
+
+      {
+        "Id": "fa9d5ed4-5cdb-435a-b163-daff47e86ee1",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "EmployeeConnectDeviceReportComponent",
+        "UrlPath": "/main/report/employee-connect-device-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 5,
+        "CanShow": true
+      },
+
+      {
+        "Id": "568fc80c-9a7d-4063-bb6b-88cc61b82d31",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "EmployeeLocationReportComponent",
+        "UrlPath": "/main/report/employee-location-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 6,
+        "CanShow": true
+      },
+      {
+        "Id": "9cb358bb-2be3-451a-8e19-8e85aa845017",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "UnKnownUserReportComponent",
+        "UrlPath": "/main/report/un-knownUser-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 7,
+        "CanShow": true
+      },
+      {
+        "Id": "9cb358bb-2be3-451a-8e19-8e85aa915017",
+        "ParentId": "c45271ce-6771-42dc-b9fd-1617a42a9103",
+        "ComponentName": "EmployeeAttendanceLogReportComponent",
+        "UrlPath": "/main/report/employee-attendance-log-report",
+        "IconName": "data_usage",
+        "IsReport": true,
+        "OrderNumber": 8,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "93ee3f27-6a95-98e4-b177-8aa86119d90c",
+    "ParentId": null,
+    "Description": "audits",
+    "ComponentName": "menu7",
+    "IconName": "history",
+    "IsReport": false,
+    "OrderNumber": 7,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "93ee3f36-6a95-98e6-b177-8aa86185d91c",
+        "ParentId": "93ee3f27-6a95-98e4-b177-8aa86119d90c",
+        "ComponentName": "AuditsGridComponent",
+        "UrlPath": "/main/audits/audits-log",
+        "IconName": "search",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      }
+    ]
+  },
+  {
+    "Id": "18c02172-1ea5-4e4e-a6e2-ec0ce5c310ef",
+    "ParentId": null,
+    "Description": "OrganizationSetting",
+    "ComponentName": "menu15",
+    "UrlPath": "/main/lookups/general-setting-parent-regulations",
+    "IconName": "notifications_active",
+    "IsReport": false,
+    "OrderNumber": 30,
+    "CanShow": false,
+    "Childerns": [
+      {
+        "Id": "9389daad-0c9f-47ba-825b-bc37d119bd88",
+        "ParentId": "18c02172-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "SettingActualWorkingComponent",
+        "UrlPath": "/main/lookups/setting-actual-working-regulations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": false
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825b-bc37d119bd89",
+        "ParentId": "18c02172-1ea5-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "GeneralSettingComponent",
+        "UrlPath": "/main/lookups/general-setting-regulations",
+        "IconName": "gavel",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": false
+      }
+    ]
+  },
+  //AUM - Mobile --->Start
+  {
+    "Id": "18c02172-1ea6-4e4e-a6e2-ec0ce5c310ef",
+    "ParentId": null,
+    "Description": "mobileSetting",
+    "ComponentName": "menu8",
+    "IconName": "perm_device_information",
+    "IsReport": false,
+    "OrderNumber": 30,
+    "CanShow": true,
+    "Childerns": [
+      {
+        "Id": "9389daad-0c9f-47ba-825c-bc37d119bd88",
+        "ParentId": "18c02172-1ea6-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "MobileUsersComponent",
+        "UrlPath": "/main/mobile/mobile-users",
+        "IconName": "group",
+        "IsReport": false,
+        "OrderNumber": 1,
+        "CanShow": true
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825a-bc37d119bd89",
+        "ParentId": "18c02172-1ea6-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "WorkCentersComponent",
+        "UrlPath": "/main/mobile/work-centers",
+        "IconName": "domain",
+        "IsReport": false,
+        "OrderNumber": 2,
+        "CanShow": true
+      },
+      {
+        "Id": "9389daad-0c9f-47ba-825a-bc37d119bd79",
+        "ParentId": "18c02172-1ea6-4e4e-a6e2-ec0ce5c310ef",
+        "ComponentName": "UsersFaceRegistrationsComponent",
+        "UrlPath": "/main/mobile/user-faces",
+        "IconName": "domain",
+        "IsReport": false,
+        "OrderNumber": 3,
+        "CanShow": true
+      }
+      //,
+      //{
+      //  "Id": "9389daad-0c9f-47ba-825d-bc37d119bd89",
+      //  "ParentId": "18c02172-1ea6-4e4e-a6e2-ec0ce5c310ef",
+      //  "ComponentName": "LocationRangeComponent",
+      //  "UrlPath": "/main/mobile/location-range",
+      //  "IconName": "location_on",
+      //  "IsReport": false,
+      //  "OrderNumber": 3,
+      //  "CanShow": true
+      //}
+    ]
+  }
+  //AUM - Mobile --->End
+]

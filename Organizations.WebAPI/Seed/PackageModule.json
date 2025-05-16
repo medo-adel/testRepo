@@ -1,0 +1,284 @@
+[
+  {
+    "Id": "36b5a6d5-c6d1-4860-9ab3-2719c905dbd3",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "ddfbaefa-1981-4849-adb0-a5e6f58f9302",
+    "IsChecked": "true"
+  },
+
+  {
+    "Id": "37b5a6d5-c6d1-4860-9ab3-2719c905dbd3",
+    "ModuleId": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "ddfbaefa-1981-4849-adb0-a5e6f58f9302",
+    "IsChecked": "true"
+
+  },
+  {
+    "Id": "38b5a6d5-c6d1-4860-9ab3-2719c905dbd3",
+    "ModuleId": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "ddfbaefa-1981-4849-adb0-a5e6f58f9302",
+    "IsChecked": "true"
+
+  },
+  {
+    "Id": "39b5a6d5-c6d1-4860-9ab3-2719c905dbd3",
+    "ModuleId": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "ddfbaefa-1981-4849-adb0-a5e6f58f9302",
+    "IsChecked": "true"
+
+  },
+
+
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4536550d6a4",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4536550d6a5",
+    "ModuleId": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4536550d6a6",
+    "ModuleId": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4536550d6a7",
+    "ModuleId": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+
+  {
+    "Id": "d96baab4-5a25-491c-843f-e1536550d6a7",
+    "ModuleId": "8189daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e2536550d6a7",
+    "ModuleId": "8289daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e3536550d6a7",
+    "ModuleId": "8389daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e5536550d6a7",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e6536550d6a7",
+    "ModuleId": "8589daad-0c9f-46ba-825b-bc37d119bd47",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e7536550d6a7",
+    "ModuleId": "cbdf8448-33e9-4d0c-84dc-c3fde422b225",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e8536550d6a7",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e9536550d6a7",
+    "ModuleId": "db79584c-f208-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4516550d6a7",
+    "ModuleId": "db79584c-f308-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4526550d6a7",
+    "ModuleId": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4546550d6a7",
+    "ModuleId": "db79584c-f508-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4556550d6a7",
+    "ModuleId": "db79584c-f608-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4566550d6a7",
+    "ModuleId": "db79584c-f708-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  //workflow
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4576550d6a7",
+    "ModuleId": "40144a96-b6b3-4aae-bb68-3a9d27c58011",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4586550d6a7",
+    "ModuleId": "40144a96-b6b3-4aae-bb68-3a9d27c58044",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4596550d6a7",
+    "ModuleId": "8441f18d-17ba-4974-9f8b-d74472f81522",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4596560d6a7",
+    "ModuleId": "10efc918-ef1f-409a-a0b3-ee5d35932997",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4596570d6a7",
+    "ModuleId": "8441f18d-17ba-4974-9f8b-d74472f81533",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a15-491c-843f-e4596570d6a8",
+    "ModuleId": "8641f18d-17ba-4974-9f8b-d74472f81543",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a15-491c-843f-e4596570d6a9",
+    "ModuleId": "8641f18d-17ba-4974-9f8b-d74472f81544",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  //
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4596580d6a7",
+    "ModuleId": "db79584c-f204-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4596590d6a7",
+    "ModuleId": "db79584c-f205-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4592550d6a7",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4593550d6a7",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab7-5a25-491c-843f-e2593550d6a8",
+    "ModuleId": "db79523c-f508-481a-8a79-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab6-5a41-491c-843f-e4593550d6a8",
+    "ModuleId": "db79523c-f508-491a-1a79-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab6-5a41-491c-843f-e4522550d6a8",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab6-5a41-491c-843f-e3252550d6a8",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  //CAPT Memos Module
+  {
+    "Id": "a5373e90-5892-42f3-a55e-1c42ea59cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "PackageId": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab3-5a25-491c-843f-e4593550d6a8",
+    "ModuleId": "db79524c-f208-481a-8a89-a8a1904bc1fc",
+    "PackageId": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "IsChecked": "true"
+  },
+  {
+    "Id": "d96baab4-5a25-491c-843f-e4593550d6a8",
+    "ModuleId": "db79524c-f308-481a-8a89-a8a1904bc1fc",
+    "PackageId": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab5-5a25-491c-843f-e4593550d6a8",
+    "ModuleId": "db79524c-f408-481a-8a89-a8a1904bc1fc",
+    "PackageId": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab6-5a25-491c-843f-e4593550d6a8",
+    "ModuleId": "db79524c-f508-481a-8a89-a8a1904bc1fc",
+    "PackageId": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab6-5a55-491c-843f-e4593550d6a9",
+    "ModuleId": "db89524c-f508-481a-8a89-a8a1904bc2fc",
+    "PackageId": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d96baab7-5a25-491c-843f-e4593560d7a8",
+    "ModuleId": "db80524c-f508-491a-1a79-a9a1914bc1fc",
+    "PackageId": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "IsChecked": "false"
+  },
+  {
+    "Id": "d98baab4-5a25-491c-843f-e4593550d6a7",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "PackageId": "ac1dc6d4-b2c6-4adb-a3a8-dfd896757658",
+    "IsChecked": "true"
+  },
+  {
+    // Aum - Mobile
+    "Id": "d28baab4-5a25-491c-843f-e4593550d6a8",
+    "ModuleId": "db80524c-f508-491a-1a79-a9a9914bc1fc",
+    "PackageId": "ac1dc6d4-b2c6-4adb-a3a8-dfd896757658",
+    "IsChecked": "true"
+  }
+]

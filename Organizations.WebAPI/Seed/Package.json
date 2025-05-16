@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "ddfbaefa-1981-4849-adb0-a5e6f58f9302",
+    "PackageNameSl": "TAMS Lite Package",
+    "PackageNameFl": "TAMS Lite Package",
+    "ApplicationId": "40144a96-b6b3-4aae-bb68-3a9d27c580e6"
+  },
+
+  {
+    "Id": "91df3c86-c767-4dde-989e-f3675987dcad",
+    "PackageNameSl": "TAMS Custom Package",
+    "PackageNameFl": "TAMS Custom Package",
+    "ApplicationId": "40144a96-b6b3-4aae-bb68-3a9d27c580e6"
+
+  },
+
+  {
+    "Id": "21df3c86-c767-4dde-989e-f8675987dcad",
+    "PackageNameSl": "Smartin Package",
+    "PackageNameFl": "Smartin Package",
+    "ApplicationId": "8441f18d-17ba-4974-9f8b-d74472f8150d"
+  },
+  {
+    "Id": "ac1dc6d4-b2c6-4adb-a3a8-dfd896757658",
+    "PackageNameSl": "Aum Package",
+    "PackageNameFl": "Aum Package",
+    "ApplicationId": "1e99618b-6294-4786-8b00-2b8e294c66fe"
+  },
+  //{
+  //  "Id": "ac1dc6d4-b2c6-4ddb-a3a8-dfd896757658",
+  //  "PackageNameSl": "Aum Mobile Package",
+  //  "PackageNameFl": "Aum Mobile Package",
+  //  "ApplicationId": "1e99618b-6294-4786-8b00-2b8e294c66fe"
+  //}
+
+]
+

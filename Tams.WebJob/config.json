@@ -1,0 +1,4 @@
+{
+  "BackendUrl": "https://localhost:6001/api/",
+  "JobType": 1 // 1 creation , 2 outbox , 3 LogsMobile
+}

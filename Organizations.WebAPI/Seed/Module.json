@@ -1,0 +1,218 @@
+[
+  {
+    "Id": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Basic Module",
+    "ModuleNameFl": "Basic Module"
+  },
+  {
+    "Id": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Duties (Fixed) Module",
+    "ModuleNameFl": "Duties (Fixed) Module"
+  },
+  {
+    "Id": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Leaves (Lite) Module",
+    "ModuleNameFl": "Leaves (Lite) Module"
+  },
+  {
+    "Id": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Part-day Permissions Module",
+    "ModuleNameFl": "Part-day Permissions Module"
+  },
+  {
+    "Id": "8189daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Duties (Rotated) Module",
+    "ModuleNameFl": "Duties (Rotated) Module"
+  },
+  {
+    "Id": "8289daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Duties (Free) Module",
+    "ModuleNameFl": "Duties (Free) Module"
+  },
+  {
+    "Id": "8389daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Duties (Fixed Periods) Module",
+    "ModuleNameFl": "Duties (Fixed Periods) Module"
+  },
+  {
+    "Id": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Leaves (Enterprise) Module",
+    "ModuleNameFl": "Leaves (Enterprise) Module"
+  },
+  {
+    "Id": "8589daad-0c9f-46ba-825b-bc37d119bd47",
+    "ModuleNameSl": "Full-day Permissions Module",
+    "ModuleNameFl": "Full-day Permissions Module"
+  },
+  {
+    "Id": "cbdf8448-33e9-4d0c-84dc-c3fde422b225",
+    "ModuleNameSl": "Exemptions / Tolerance Module",
+    "ModuleNameFl": "Exemptions / Tolerance Module"
+  },
+
+  {
+    "Id": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ModuleNameSl": "Overtime Module",
+    "ModuleNameFl": "Overtime Module"
+  },
+  {
+    "Id": "db79584c-f208-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Deductions Module",
+    "ModuleNameFl": "Deductions Module"
+  },
+  {
+    "Id": "db79584c-f308-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Penalties Module",
+    "ModuleNameFl": "Penalties Module"
+  },
+  {
+    "Id": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Annual Evaluation Module",
+    "ModuleNameFl": "Annual Evaluation Module"
+  },
+  {
+    "Id": "db79584c-f508-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Break Module",
+    "ModuleNameFl": "Break Module"
+  },
+  {
+    "Id": "db79584c-f608-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Audit Module",
+    "ModuleNameFl": "Audit Module"
+  },
+  {
+    "Id": "db79584c-f708-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Inquiry (Basic) Module",
+    "ModuleNameFl": "Inquiry (Basic) Module"
+  },
+  //Workflow
+  {
+    "Id": "40144a96-b6b3-4aae-bb68-3a9d27c58011",
+    "ModuleNameSl": "Workflow Module - (Leaves)",
+    "ModuleNameFl": "Workflow Module - (Leaves)"
+  },
+  {
+    "Id": "40144a96-b6b3-4aae-bb68-3a9d27c58044",
+    "ModuleNameSl": "Workflow Module - (Leaves Return)",
+    "ModuleNameFl": "Workflow Module - (Leaves Return)"
+  },
+  {
+    "Id": "8441f18d-17ba-4974-9f8b-d74472f81522",
+    "ModuleNameSl": "Workflow Module - (Part-day Permissions)",
+    "ModuleNameFl": "Workflow Module - (Part-day Permissions)"
+  },
+
+  {
+    "Id": "10efc918-ef1f-409a-a0b3-ee5d35932997",
+    "ModuleNameSl": "Workflow Module - (Full-day Permissions)",
+    "ModuleNameFl": "Workflow Module - (Full-day Permissions)"
+  },
+  {
+    "Id": "8441f18d-17ba-4974-9f8b-d74472f81533",
+    "ModuleNameSl": "Workflow Module - (Overtime)",
+    "ModuleNameFl": "Workflow Module - (Overtime)"
+  },
+  {
+    "Id": "8641f18d-17ba-4974-9f8b-d74472f81543",
+    "ModuleNameSl": "Workflow Module - (Forget Sign)",
+    "ModuleNameFl": "Workflow Module - (Forget Sign)"
+  },
+
+  {
+    "Id": "8641f18d-17ba-4974-9f8b-d74472f81544",
+    "ModuleNameSl": "Workflow Module - (Allowances)",
+    "ModuleNameFl": "Workflow Module - (Allowances)"
+  },
+  {
+    "Id": "db79584c-f204-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Notifications & News Module",
+    "ModuleNameFl": "Notifications & News Module"
+  },
+  {
+    "Id": "db79584c-f205-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Logs (Basic) Module",
+    "ModuleNameFl": "Logs (Basic) Module"
+  },
+  {
+    "Id": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Logs (Advanced) Module",
+    "ModuleNameFl": "Logs (Advanced) Module"
+  },
+  {
+    "Id": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Reports (Advanced) Module",
+    "ModuleNameFl": "Reports (Advanced) Module"
+  },
+
+
+
+  {
+    "Id": "db79524c-f208-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "My Inquiry Module",
+    "ModuleNameFl": "My Inquiry Module"
+  },
+  {
+    "Id": "db79524c-f308-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "My Administration Inquiry Module",
+    "ModuleNameFl": "My Administration Inquiry Module"
+  },
+  {
+    "Id": "db79524c-f408-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Workflow (Requests) Module",
+    "ModuleNameFl": "Workflow (Requests) Module"
+  },
+  {
+    "Id": "db79524c-f508-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Sign Module",
+    "ModuleNameFl": "Sign Module"
+  },
+  {
+    "Id": "db89524c-f508-481a-8a89-a8a1904bc2fc",
+    "ModuleNameSl": "Face Module",
+    "ModuleNameFl": "Face Module"
+  },
+  {
+    "Id": "db79523c-f508-481a-8a79-a8a1904bc1fc",
+    "ModuleNameSl": "Basic Memos Module",
+    "ModuleNameFl": "Basic Memos Module"
+  },
+
+  {
+    "Id": "db79523c-f508-491a-1a79-a8a1904bc1fc",
+    "ModuleNameSl": "HR Module",
+    "ModuleNameFl": "HR Module"
+  },
+
+  {
+    "Id": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "Paaet Report Module",
+    "ModuleNameFl": "Paaet Report Module"
+  },
+  {
+    "Id": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ModuleNameSl": "CAPT Module",
+    "ModuleNameFl": "CAPT Module"
+  },
+
+  {
+    "Id": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ModuleNameSl": "Kuna Module",
+    "ModuleNameFl": "Kuna Module"
+  },
+
+  {
+    "Id": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ModuleNameSl": "Aum Modules",
+    "ModuleNameFl": "Aum Modules"
+  },
+  {
+    "Id": "db80524c-f508-491a-1a79-a9a1914bc1fc",
+    "ModuleNameSl": "Mailing Ndhr Module",
+    "ModuleNameFl": "Mailing Ndhr Module"
+  },
+  {
+    "Id": "db80524c-f508-491a-1a79-a9a9914bc1fc",
+    "ModuleNameSl": "Aum Mobile Module",
+    "ModuleNameFl": "Aum Mobile Module"
+  }
+]

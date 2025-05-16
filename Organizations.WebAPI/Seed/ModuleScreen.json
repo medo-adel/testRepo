@@ -1,0 +1,1070 @@
+[
+  //Basic Module
+  {
+    "Id": "46f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "7789daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "47f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "7889daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "48f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "7989daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "49f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8089daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "57bdf3c4-58fd-4527-b5e3-f4dcff74ed88",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8189daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "50f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8289daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "51f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8389daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "52f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8320daad-1c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "53f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8589daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "54f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8489daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "55f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c516e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "56f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "16b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+  },
+  {
+    "Id": "56f31445-9bba-178c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "58f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "3387834b-5960-4c26-983f-6373eb58b1c3"
+  },
+  {
+    "Id": "59f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "90ee3f27-6a95-46e4-b177-8aa86115d85c"
+  },
+  {
+    "Id": "ba3f5f24-d71d-4eda-99b1-ceaf4ae6e84d",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "91ee3f27-6a95-46e4-b177-8aa86115d85c"
+  },
+  {
+    "Id": "ba3f5f24-d71d-4eda-11b1-ceaf4ae6e84d",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "93ee3f27-6a95-46e4-b177-8aa86225d85c"
+  },
+  {
+    "Id": "ba3f5f24-d71d-4eda-11b2-ceaf4ae6e84d",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "93ee3f27-6a95-46e4-b199-8aa86225d85c"
+  },
+
+  {
+    "Id": "60f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "92ee3f27-6a95-46e4-b177-8aa86115d85c"
+  },
+  {
+    "Id": "5c183d4e-8b4f-41f5-aa43-8b316a46a730",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "15655108-4a92-4bd8-8e91-cc174f86eebc"
+  },
+  {
+    "Id": "1e238bdd-ee34-460b-9e60-571f00f0f57f",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd50"
+  },
+  {
+    "Id": "64866d8a-0d78-400b-9eb6-f84a5ac0bf0b",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd56"
+  },
+  {
+    "Id": "c9638ab7-a62a-4d5b-9b5f-b747dffa498d",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd57"
+  },
+  {
+    "Id": "c9638ab7-a62a-4d5b-9b5f-b747dffa418d",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd90"
+  },
+  {
+    "Id": "224e2621-b59d-44ae-b7c2-f0cf435b052b",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c526e9c7-fc23-4bec-bb17-a7a1da945552"
+  },
+  {
+    "Id": "224e2621-b59d-44ae-b8c2-f0cf435b052b",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c446e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "224e2621-b59d-44ae-b8c2-f0cf477b052b",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd88"
+  },
+  {
+    "Id": "224e2621-b59d-44ae-b8c2-f0cf488b052b",
+    "ModuleId": "7789daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd89"
+  },
+  //Duties (Fixed) Module
+  {
+    "Id": "62f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e1a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+  {
+    "Id": "63f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e7a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+  {
+    "Id": "64f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "d556e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "65f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7889daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "b926e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+
+  //Leaves (Lite) Module
+  {
+    "Id": "72f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8889daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "73f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c476e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "74f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e666e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "74f22445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "7989daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8929daad-0c9f-44ba-825b-bc37d119bd47"
+  },
+
+
+  //Part-day Permissions Module
+  {
+    "Id": "80f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8789daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "81f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c506e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "82f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "a826e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "83f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8089daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e37edfa2-5ec6-4ad5-9c3f-463b4256c319"
+  },
+  //Duties (Rotated) Module
+  {
+    "Id": "84f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8189daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e3a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+  {
+    "Id": "85f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8189daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e4a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+  {
+    "Id": "86f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8189daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e5a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+
+  //Duties (Free) Module
+  {
+    "Id": "88f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8289daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e2a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+  //Duties (Fixed Periods) Module
+  {
+    "Id": "12f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8389daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e8a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+
+
+  //Leaves (Enterprise) Module
+  {
+    "Id": "13f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8889daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "13f31245-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8989daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "13f31345-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c476e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "13f31545-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c466e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "13f31645-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "a937c70f-d295-4a9b-a970-55a44d310b1e"
+  },
+  //**
+  {
+    "Id": "13f31645-9bba-478c-8da9-e6439f75d0a9",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "a937c70f-d295-4a9b-a970-55a44d310b1b"
+  },
+
+
+  {
+    "Id": "13f31745-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "ab168b4b-4c18-4208-aa0b-f350ba8fe933"
+  },
+  {
+    "Id": "13f31845-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e666e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "13f31945-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "e38edfa3-5bc6-4bd5-9c3f-463b4256c319"
+  },
+  {
+    "Id": "13f33345-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8489daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c476e9c7-fc23-4bec-bb17-a7a1da945333"
+  },
+  //Full-day Permissions Module
+  {
+    "Id": "14f31445-9bba-478c-8da9-e6439f75d0a8",
+    "ModuleId": "8589daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "8689daad-0c9f-46ba-825b-bc37d119bd47"
+  },
+  {
+    "Id": "14f31445-9bba-478c-8da9-e7439f75d0a8",
+    "ModuleId": "8589daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c496e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "14f31445-9bba-478c-8da9-e8439f75d0a8",
+    "ModuleId": "8589daad-0c9f-46ba-825b-bc37d119bd47",
+    "ScreenId": "c526e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  //Exemptions / Tolerance Module
+  {
+    "Id": "a5363e90-4590-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-33e9-4d0c-84dc-c3fde422b225",
+    "ScreenId": "9089daad-0c9f-46ba-825b-bc37d119bd47"
+
+  },
+  {
+    "Id": "a5463e90-4590-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-33e9-4d0c-84dc-c3fde422b225",
+    "ScreenId": "c486e9c7-fc23-4bec-bb17-a7a1da945632"
+
+  },
+  {
+    "Id": "a5563e90-4590-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-33e9-4d0c-84dc-c3fde422b225",
+    "ScreenId": "1226e9c7-fc23-4bec-bb17-a7a1da945632"
+
+  },
+  {
+    "Id": "a5663e90-4590-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-33e9-4d0c-84dc-c3fde422b225",
+    "ScreenId": "b926e9c7-fc23-4bec-aa17-a7a1da945632"
+
+  },
+
+  //Deductions Module
+  {
+    "Id": "a5363e90-4290-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f208-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "9289daad-0c9f-46ba-825b-bc37d119bd47"
+
+  },
+  {
+    "Id": "a5363e90-4290-44f3-a44e-2c41ea52cef5",
+    "ModuleId": "db79584c-f208-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "c526e9c7-fc23-4bec-bb17-a7a1da945652"
+
+  },
+  //Penalties Module
+  {
+    "Id": "a5383e90-4290-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f308-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "8770758b-7c07-4412-b42d-e45d119d2cd3"
+
+  },
+  {
+    "Id": "a5393e90-4290-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f308-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "8770758b-7c07-4412-b42d-e45d119d2cd4"
+
+  },
+  {
+    "Id": "a5393e20-4290-44f1-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f308-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-33a1-48ce-bde3-103bdde71332"
+
+  },
+
+  //Annual Evaluation Module
+  {
+    "Id": "a5383e90-4291-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "7538a848-3cda-4acf-a128-f64dbab21899"
+  },
+  {
+    "Id": "a5383e90-4292-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "e1398770-5fad-443f-afdd-dd45b212a0cb"
+  },
+  {
+    "Id": "a5383e90-4293-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "5c3e00bf-d07b-4df3-8dc6-f8889d1c5fb2"
+  },
+  {
+    "Id": "a5383e90-4294-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "2f45cc65-78db-4479-90a8-075987f02e81"
+  },
+  {
+    "Id": "a5383e90-4295-44f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f408-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "2db422f3-f497-4301-abfe-58995a1e18f1"
+  },
+  //Break Module
+  {
+    "Id": "a5383e90-4291-42f3-a44e-1c41ea52cef5",
+    "ModuleId": "db79584c-f508-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "36aab155-d4fd-4508-8e8a-590dabaa6b44"
+  },
+  {
+    "Id": "a5383e90-4291-42f3-a34e-1c41ea52cef5",
+    "ModuleId": "db79584c-f508-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "36aab188-d4fd-4508-8e8a-590dabaa6b68"
+  },
+  {
+    "Id": "a5383e90-4291-42f3-a24e-1c41ea52cef5",
+    "ModuleId": "db79584c-f508-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "36aab188-d4fd-4508-8e8a-590dabaa6b70"
+  },
+  {
+    "Id": "a5383e90-4291-42f3-a14e-1c41ea52cef5",
+    "ModuleId": "db79584c-f508-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "36aab188-d4fd-4508-8e8a-590dabaa6b75"
+  },
+  //Audit Module
+  {
+    "Id": "a5383e90-4291-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f608-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "93ee3f36-6a95-98e6-b177-8aa86185d85c"
+  },
+  {
+    "Id": "a5373e90-5891-42f4-a44e-1c41ea59cef6",
+    "ModuleId": "db79584c-f608-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "93ee3f36-6a96-98e6-b188-7aa76185d76c"
+  },
+  //Inquiry (Basic) Module
+  {
+    "Id": "a5383e90-4191-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "93ee3f27-6a95-46e4-b177-8aa86115d85c"
+  },
+  {
+    "Id": "a5383e90-4191-42f3-a44e-1c41ea29cef5",
+    "ModuleId": "db79584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "c456e9c7-fc23-4bec-bb17-a7a1da945632"
+  },
+  {
+    "Id": "a5383e90-4191-42f3-a44e-1c41ea39cef5",
+    "ModuleId": "db79584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "e6a82e92-137b-47ca-a073-72e730b82c6d"
+  },
+  {
+    "Id": "a5383e90-4191-42f3-a44e-1c41ea49cef5",
+    "ModuleId": "db79584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "c536e9c7-fc23-4bec-bb17-a7a1da945652"
+  },
+  //Notifications & News Module
+  {
+    "Id": "a5383e90-5191-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f204-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "39aab175-d4fd-4108-8e8a-590dabaa6b44"
+  },
+  //Logs (Basic) Module
+  {
+    "Id": "a5323e90-5191-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f205-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab168b4c-4c18-4208-aa0b-f350ba8fe929"
+  },
+  {
+    "Id": "a5323e91-5191-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f205-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-4208-aa0b-f350ba8fe929"
+  },
+  {
+    "Id": "a5323e92-5191-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f205-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-4209-aa0b-f350ba8fe956"
+  },
+  //Logs (Advanced) Module
+  {
+    "Id": "a5323e90-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab268b4c-4c18-4208-aa0b-f350ba8fe929"
+  },
+  {
+    "Id": "a5343e90-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-4209-aa0b-f350ba8fe949"
+  },
+  {
+    "Id": "a5353e90-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-4209-aa0b-f350ba8fe959"
+  },
+  {
+    "Id": "a5363e90-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-4209-aa0b-f350ba8fe950"
+  },
+  {
+    "Id": "a5373e90-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "93ee3f36-6a95-98e6-b188-7aa76185d75c"
+  },
+  {
+    "Id": "a5373e90-5851-42f3-a44e-1c52ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-3309-aa0b-f350ba8fe999"
+  },
+  {
+    "Id": "a5373e90-5851-42f3-a55e-1c52ea59cef5",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-9c18-3309-aa0b-f350ba8fe449"
+  },
+  {
+    "Id": "a5373e92-5851-42f3-a55e-1c52ea59cef7",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-3309-aa0b-f350ba8fe555"
+  },
+  {
+    "Id": "a5373e92-5851-42f3-a55e-1c52ea69cef8",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-3309-aa0b-f350ba8fe666"
+  },
+  {
+    "Id": "a5373e92-5851-42f3-a55e-1c52ea69cef9",
+    "ModuleId": "db79584c-f206-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-3309-aa0b-f350ba8fe677"
+  },
+  //Reports (Advanced) Module
+  {
+    "Id": "a5723e90-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "06d10572-1a5e-4723-a49b-718e15a8641f"
+  },
+  {
+    "Id": "a5723e10-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "b926e9c7-fc23-4bec-aa17-a7a1da945631"
+  },
+  {
+    "Id": "a5723e40-5891-42f3-a44e-1c41ea59cef5",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-33a1-48ce-bde3-103bdde71331"
+  },
+
+  {
+    "Id": "a5714e40-5891-42f3-a44e-1c41ea59cef6",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "df1dbf09302e4b1d94c676a3d0eb4560"
+  },
+  {
+    "Id": "a5714e40-5892-42f3-a44e-1c41ea59cef6",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-33a1-48ce-bde3-103bdde75431"
+  },
+  {
+    "Id": "a5714e40-5892-42f3-a44e-1c41ea59cef9",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-46a1-49ce-bde1-103bdde85752"
+  },
+  {
+    "Id": "a5714e40-5892-42f3-a44e-1c41ea44cef9",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-47a1-59ce-bde1-103bdde85888"
+  },
+  {
+    "Id": "a5714e40-5892-42f3-a44e-1c41ea45cef8",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-47a1-59ce-bde1-103bdde85999"
+  },
+  {
+    "Id": "a5714e40-5772-42f3-a44e-1c41ea45cef8",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "e666e9c7-fc23-4bec-bb17-a7a1da945645"
+  },
+  //Overtime Module
+  {
+    "Id": "a5363e90-4290-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ScreenId": "9189daad-0c9f-46ba-825b-bc37d119bd47"
+
+  },
+  {
+    "Id": "a5363e90-4390-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ScreenId": "1234e9c7-fc23-4bec-bb17-a7a1da945632"
+
+  },
+  {
+    "Id": "a5363e90-4490-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ScreenId": "c13acb26-6d39-40e9-831d-2dbcc01c0b5a"
+
+  },
+  {
+    "Id": "a5363e90-4590-44f3-a44e-3c41ea72cef5",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ScreenId": "e36edfa2-4ec6-4ad5-9c3f-463b4256c319"
+
+  },
+  {
+    "Id": "a5363e90-4690-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ScreenId": "e39edfb2-5ec6-4ad5-9c3f-473b4256c319"
+
+  },
+  {
+    "Id": "a5363e90-4790-44f3-a44e-3c41ea52cef5",
+    "ModuleId": "cbdf8448-34e9-4d0c-84dc-c3fde922b225",
+    "ScreenId": "2db422f3-f497-4301-abfe-58995a1e17f0"
+
+  },
+  //workflow
+  {
+    "Id": "2bde3830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "40144a96-b6b3-4aae-bb68-3a9d27c58044",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  {
+    "Id": "3bde3830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "10efc918-ef1f-409a-a0b3-ee5d35932997",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  {
+    "Id": "4bde3830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "40144a96-b6b3-4aae-bb68-3a9d27c58011",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  {
+    "Id": "5bde3830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "8441f18d-17ba-4974-9f8b-d74472f81522",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  {
+    "Id": "6bde3830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "8441f18d-17ba-4974-9f8b-d74472f81533",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  {
+    "Id": "6bde3830-3b65-4854-a189-ae4d7d641835",
+    "ModuleId": "8641f18d-17ba-4974-9f8b-d74472f81543",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  {
+    "Id": "6bde3830-3b65-4854-a189-ae4d7d641836",
+    "ModuleId": "8641f18d-17ba-4974-9f8b-d74472f81544",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850001"
+  },
+  ////
+
+  {
+    "Id": "3bde4830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "10efc918-ef1f-409a-a0b3-ee5d35932997",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850002"
+  },
+  {
+    "Id": "4bde5830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "40144a96-b6b3-4aae-bb68-3a9d27c58011",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850002"
+  },
+  {
+    "Id": "5bde6830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "8441f18d-17ba-4974-9f8b-d74472f81522",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850002"
+  },
+  {
+    "Id": "6bde7830-3b65-4854-a289-ae4d7d641825",
+    "ModuleId": "8441f18d-17ba-4974-9f8b-d74472f81533",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850002"
+  },
+  {
+    "Id": "6bde8830-3b65-4854-a189-ae4d7d641835",
+    "ModuleId": "8641f18d-17ba-4974-9f8b-d74472f81543",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850002"
+  },
+  {
+    "Id": "6bde8830-3b65-4854-a189-ae4d7d641836",
+    "ModuleId": "8641f18d-17ba-4974-9f8b-d74472f81544",
+    "ScreenId": "54ee3f36-6a95-98e6-b177-8aa861850002"
+  },
+
+
+
+  //Basic Memos Module
+  {
+    "Id": "6bde3850-3b65-4854-a389-ae4d7d641825",
+    "ModuleId": "db79523c-f508-481a-8a79-a8a1904bc1fc",
+    "ScreenId": "32aab175-d4fd-4108-8e8a-590dabaa6b14"
+  },
+  {
+    "Id": "6bde3850-3b65-4854-a389-ae4d7d641826",
+    "ModuleId": "db79523c-f508-481a-8a79-a8a1904bc1fc",
+    "ScreenId": "32aab175-d4fd-4108-8e8a-590dabaa6b15"
+  },
+  {
+    "Id": "6bde3850-3b65-4854-a389-ae4d7d641827",
+    "ModuleId": "db79523c-f508-481a-8a79-a8a1904bc1fc",
+    "ScreenId": "32aab175-d4fd-4108-8e8a-590dabaa6b19"
+  },
+  {
+    "Id": "96aa5470-d5dc-48c5-9c5d-e1cc516b410b",
+    "ModuleId": "db79523c-f508-481a-8a79-a8a1904bc1fc",
+    "ScreenId": "e4e72d50-86d5-4eea-a2c6-f02f3cd2d2b6"
+  },
+
+  //hr section
+  {
+    "Id": "96aa5880-d5dc-48c5-9c5d-e1cc516b410b",
+    "ModuleId": "db79523c-f508-491a-1a79-a8a1904bc1fc",
+    "ScreenId": "32aab175-d4fd-6408-8e8a-590dabaa6b14"
+  },
+
+  {
+    "Id": "a5373e90-5891-42f3-a44e-1c52ea59cef9",
+    "ModuleId": "db79523c-f508-491a-1a79-a8a1904bc1fc",
+    "ScreenId": "ab368b4c-4c18-4209-aa0b-f350ba8fe990"
+  },
+  //CAPT Memos Module
+  {
+    "Id": "a5373e90-5892-42f3-a44e-1c42ea59cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-38a1-49ce-bde1-103bdde75942"
+  },
+  {
+    "Id": "a5373e90-5892-42f3-a55e-1c42ea59cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-38a1-49ce-bde1-103bdde72943"
+  },
+  {
+    "Id": "a5373e90-2292-42f3-a44e-1c42ea59cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-55a1-49ce-bde1-103bdde72944"
+  },
+  {
+    "Id": "a5373e90-2292-42f3-a44e-1c42ea55cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "246d3f84-55a1-49ce-bde1-113bdde72944"
+  },
+  {
+    "Id": "a5373e90-2292-42f3-a44e-1c42ea56cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "256d3f82-55a1-49ce-bde1-113bdde72944"
+  },
+  {
+    "Id": "a5373e90-2292-42f3-a44e-1c42ea57cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "256d3f91-55a1-49ce-bde1-113bdde72944"
+  },
+  {
+    "Id": "a5373e90-2292-42f3-a44e-1c42ea58cef9",
+    "ModuleId": "db22585c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-46a1-49ce-bde1-103bdde85762"
+  },
+
+  //kuna section
+  {
+    "Id": "a5373e90-2292-55f3-a44e-1c42ea58cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "e39edfb2-5ec6-4ad5-9c3f-473b3356c319"
+  },
+  {
+    "Id": "a5373e90-5892-55f3-a44e-1c42ea58cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "e8a82e92-137b-47ca-a073-55e730b82c6d"
+  },
+  {
+    "Id": "a5373e90-5892-55f3-a99e-1c42ea58cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "d556e9c7-fc23-4bec-bb99-a7a1da945632"
+  },
+  {
+    "Id": "a5333e90-5892-55f3-a99e-1c42ea58cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "e8a82e92-447b-47ca-a073-72e730b82c6d"
+  },
+  {
+    "Id": "a5333e90-5892-55f3-a99e-1c42ea58cef8",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "e8a82e92-447b-47ca-a073-72e730b82c7d"
+  },
+  {
+    "Id": "a5373e90-5992-55f3-a99e-1c42ea59cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "146d3f84-47a1-59ce-bde1-103bdde85772"
+  },
+  {
+    "Id": "a5373e90-5992-55f3-a99e-1c42ea60cef9",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-47a1-59ce-bde1-103bdde85775"
+  },
+  {
+    "Id": "a5373e90-5992-55f3-a99e-1c42ea60cef8",
+    "ModuleId": "db79584c-f207-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-47a1-59ce-bde1-103bdde85777"
+  },
+  {
+    "Id": "a5374e90-5993-56f3-a99e-1c42ea59cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "256d3f91-55a2-49ce-bde2-113bdde72945"
+  },
+  {
+    "Id": "a5375e91-5994-56f3-a99e-1c42ea59cef9",
+    "ModuleId": "db79524c-f508-491a-1a79-a9a1904bc1fc",
+    "ScreenId": "256d3f91-55a3-49ce-bde3-113bdde72946"
+  },
+
+  // AUM Section
+
+
+  //aum modules screen
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba3a5",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "13b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba3a6",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "14b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba3a7",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "15b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba3a8",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "16b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba3a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "17b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba4a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "18b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba5a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "19b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba6a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "20b748c1-a7c5-4ea4-a41b-ee73f87abb1e"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba7a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3387834b-5960-4c26-983f-6373eb58b1c3"
+
+  },
+  {
+    "Id": "ba1467c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3587834b-5960-4c26-983f-6373eb58b1c3"
+
+  },
+  {
+    "Id": "ba1567c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3687834b-5960-4c26-983f-6373eb58b1c3"
+
+  },
+  {
+    "Id": "ba1667c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3787834b-5960-4c26-983f-6373eb58b1c3"
+
+  },
+  {
+    "Id": "ba1707c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3887834b-5960-4c26-983f-6373eb58b1c3"
+
+  },
+  {
+    "Id": "ba1767c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "ff96a778-21f2-418f-972f-ad121ea7b93d"
+
+  },
+  {
+    "Id": "ba1867c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "ff97a778-21f2-418f-972f-ad121ea7b93d"
+
+  },
+  {
+    "Id": "ba1967c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "ff98a778-21f2-418f-972f-ad121ea7b93d"
+
+  },
+  {
+    "Id": "ba1963c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "5430edf1-fb5a-42b9-a942-f52653966df2"
+
+  },
+  {
+    "Id": "ba1964c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "5530edf1-fb5a-42b9-a942-f52653966df2"
+
+  },
+  {
+    "Id": "ba1965c5-521c-496b-b4bc-48e4fc8ba9a9",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "5630edf1-fb5a-42b9-a942-f52653966df2"
+
+  },
+  {
+    "Id": "ba1967c5-521c-496b-b4bc-48e4fc8ba9a8",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "20b748c1-a7c5-4ea4-a41b-ee73f87abb3e"
+
+
+  },
+  {
+    "Id": "ba1567c5-521c-496b-b4bc-48e4fc8ba9a8",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "20b248c1-a7c5-4ea4-a31b-ee73f87abb3e"
+  },
+  {
+    "Id": "ba1567c5-521c-496b-b3bc-48e4fc5ba9a8",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3587834b-5240-4c26-983f-6373eb58b1c3"
+  },
+  {
+    "Id": "8822be1f-13d8-4338-bf2a-207cf76aeeda",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "71dee0cc-c1b7-461e-9951-91bfa0b0206f"
+  },
+  {
+    "Id": "8432be1f-13d8-4338-bf2a-207cf76aeeda",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "71dee0cc-c1b7-461e-9451-91bfa0b0208f"
+  },
+
+  {
+    "Id": "5a3ed7d0-9949-4f5b-8b61-7d794546a963",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "23cdd125-2105-4612-a779-216afd714ae8"
+  },
+  {
+    "Id": "ef60cf7e-fb29-4e8a-9d0f-0234675f0c52",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "e9e3fa9d-76ef-4b2c-b4d5-e43753a546ba"
+  },
+
+  {
+    "Id": "bede2bab-006d-493b-b55a-14c66e12b804",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "fa9d5ed4-5cdb-435a-b163-daff47e86ee1"
+  },
+  {
+    "Id": "0c5299f8-5f9b-4bd7-bbcc-ff530cc449f5",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "568fc80c-9a7d-4063-bb6b-88cc61b82d31"
+  },
+  {
+    "Id": "204c3270-0af9-46b3-8e41-723e46f106d8",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "759e7936-8211-4adc-ad85-0863a0962156"
+  },
+  {
+    "Id": "3fae5b5b-a08d-4f9e-81d8-970e94022e20",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "f07cb184-9472-4d7e-a89d-555ed666f397"
+  },
+  {
+    "Id": "4b3d689f-48b4-440e-b123-c92177e33754",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "9cb358bb-2be3-451a-8e19-8e85aa845017"
+  },
+  {
+    "Id": "4b3d749f-48b4-440e-b123-c92177e33754",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "9cb358bb-2be3-451a-8e19-8e85aa915017"
+  },
+  {
+    "Id": "3bde3830-3b65-4854-a289-ae5d7d641830",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "93ee3f36-6a95-98e6-b177-8aa86185d91c"
+  },
+  {
+    "Id": "3bde3840-3b65-4854-a229-ae5d7d641830",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "3227834b-5240-4c26-983f-6373eb58b1c3"
+  },
+  {
+    "Id": "3bde3840-3b65-4854-a229-ae5d7d641840",
+    "ModuleId": "8ab7725e-f567-4e4d-9030-febb7af94162",
+    "ScreenId": "9389daad-0c9f-47ba-825b-bc37d119bd90"
+  },
+
+  {
+    "Id": "3bde3840-3b65-4854-a229-ae5d7d622230",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-33a1-48ce-bde1-103bdde75432"
+  },
+  {
+    "Id": "3bde3840-3b65-4854-a229-ae5d7d622231",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-33a1-49ce-bde1-103bdde75442"
+  },
+  {
+    "Id": "3bde3840-3b75-4854-a229-ae5d7d622331",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-34a1-49ce-bde1-103bdde75542"
+  },
+  {
+    "Id": "3bde3840-3b76-4854-a229-ae5d7d622431",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-35a1-49ce-bde1-103bdde75642"
+  },
+  {
+    "Id": "3bde3840-3b77-4854-a229-ae5d7d622531",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-36a1-49ce-bde1-103bdde75742"
+  },
+  {
+    "Id": "3bde3840-3b78-4854-a229-ae5d7d622631",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-37a1-49ce-bde1-103bdde75842"
+  },
+  {
+    //memo
+    "Id": "3bde3840-3b79-4854-a229-ae5d7d622731",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "e4e72d50-87d5-4eea-a2c6-f02f3cd3d3b6"
+  },
+  {
+    //report
+    "Id": "3bde3840-3b80-4854-a229-ae5d7d622831",
+    "ModuleId": "db22584c-f708-481a-8a89-a8a1904bc1fc",
+    "ScreenId": "146d3f84-46a1-49ce-bde1-103bdde85742"
+  },
+  {
+    //Aum Mobile
+    "Id": "3bde3840-3c80-4854-a229-ae5d7d622831",
+    "ModuleId": "db80524c-f508-491a-1a79-a9a9914bc1fc",
+    "ScreenId": "9389daad-0c9f-47ba-825c-bc37d119bd88"
+  },
+  {
+    //Aum Mobile
+    "Id": "9389daad-9c9f-47ba-825a-bc37d119bd89",
+    "ModuleId": "db80524c-f508-491a-1a79-a9a9914bc1fc",
+    "ScreenId": "9389daad-0c9f-47ba-825a-bc37d119bd89"
+  },
+  {
+    //Aum Mobile
+    "Id": "9389daad-9c9f-47ba-825a-bc37d119bd79",
+    "ModuleId": "db80524c-f508-491a-1a79-a9a9914bc1fc",
+    "ScreenId": "9389daad-0c9f-47ba-825a-bc37d119bd79"
+  }
+  //,
+  //{
+  //  //Aum Mobile
+  //  "Id": "9989daad-0c9f-47ba-825d-bc37d119bd89",
+  //  "ModuleId": "db80524c-f508-491a-1a79-a9a9914bc1fc",
+  //  "ScreenId": "9389daad-0c9f-47ba-825d-bc37d119bd89"
+  //}
+]

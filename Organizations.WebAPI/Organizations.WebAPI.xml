@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Organizations.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Organizations.WebAPI.Controllers.Base.BaseController">
+            <inheritdoc />
+        </member>
+        <member name="T:Organizations.WebAPI.Controllers.OrganizationLicensesController">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.#ctor(Organizations.Service.Interfaces.IOrganizationLicenseService)">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.Get(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetOrganizatiolicenseScreen(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetAllMergeOrganizationWithLicences">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.OrganizationLicenceExpireWithenMonth">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetOrganizationSetting(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetAllPrimaryKey">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetAllADKey">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.UpdateSettingOrganization(Organizations.Service.Dto.OrganizationSettingDto)">
+            <summary>
+            
+            </summary>
+            <param name="organizationSettingDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.Add(Organizations.Service.Dto.OrganizationLicenseDto)">
+            <summary>
+            
+            </summary>
+            <param name="organizationLicenseDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.Update(Organizations.Service.Dto.OrganizationLicenseDto)">
+            <summary>
+            
+            </summary>
+            <param name="organizationLicenseDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetOrganizationLicenseByOrganizationId(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="organizationId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.Delete(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetById(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.Getsecreenlicences(Organizations.Service.Dto.EncryptedLicencesFilter)">
+            <summary>
+            
+            </summary>
+            <param name="encryptedLicencesFilter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.VerifyEncryptionWithApplication(Organizations.Service.Dto.EncryptedLicencesFilter)">
+            <summary>
+            
+            </summary>
+            <param name="encryptedLicencesFilter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetAllWorkflowModuleIds">
+            <summary>
+            Get Workflow Module Ids for current organization
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationLicensesController.GetMobileModulesForOrganization">
+            <summary>
+            Get Mobile Modules For Mobile App Screens
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Organizations.WebAPI.Controllers.OrganizationsController">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.#ctor(Organizations.Service.Interfaces.IOrganizationService,Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.Extensions.Configuration.IConfiguration)">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetAllPaged(Organizations.Service.FilterDto.OrganizationFilterDto,Common.StandardInfrastructure.PagingSortingDto)">
+            <summary>
+            
+            </summary>
+            <param name="filteringDto"></param>
+            <param name="pagingSortingDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetTimeZones">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetDropdownListOrganization">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetDropdownListApplication">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetDropdownListModule">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetDropdownListPackage">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.Get(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.Add(Organizations.Service.Dto.OrganizationDto)">
+            <summary>
+            
+            </summary>
+            <param name="organizationDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.Update(Organizations.Service.Dto.OrganizationDto)">
+            <summary>
+            
+            </summary>
+            <param name="organizationDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetCode(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetOrganizationWithHostsByCode(System.String)">
+            <summary>
+            Get Organization With Hosts Url By Code For new SmartIn
+            </summary>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetByOrganizationId">
+            <summary>
+            get organization by id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.Delete(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GenerateJsonFile(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.DownLoadOrganizationServer(System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="code"></param>
+            <param name="hash"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.UploadFile">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.UploadServerLicense(System.String)">
+            <summary>
+             Upload server license and encrypt it then download again
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.UpdateAdminPasswordFile(Common.StandardInfrastructure.CommonDto.PasswordConfirmationDto)">
+            <summary>
+             Upload server license and encrypt it then download again
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.GetOrganizationCode(System.Guid)">
+            <summary>
+            GetOrganizationCode
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.OrganizationsController.VerifyEncryption(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Organizations.WebAPI.Controllers.UserMangmentsController">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.#ctor(Organizations.Service.Interfaces.IUserManagementService)">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.GetAllPaged(Organizations.Service.FilterDto.UserMangmentFilterDto,Common.StandardInfrastructure.PagingSortingDto)">
+            <summary>
+            
+            </summary>
+            <param name="filteringDto"></param>
+            <param name="pagingSortingDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.Get(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.Update(Organizations.Service.Dto.UserMangmentDto)">
+            <summary>
+            
+            </summary>
+            <param name="userManagementDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.Delete(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UserMangmentsController.GetAllRoles">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Organizations.WebAPI.Controllers.UsersController">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UsersController.#ctor(Organizations.Service.Interfaces.IUserService)">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UsersController.Authenticate(Organizations.Service.Dto.UserDto)">
+            <summary>
+            Authenticate function responsible for user login schema
+            </summary>
+            <param name="userDto">username and password</param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UsersController.ChangePassword(Organizations.Service.Dto.ChangePasswordDto)">
+            <summary>
+            Used to change password for user
+            </summary>
+            <param name="ChangePasswordDto">Contain current password and new password parameters</param>
+            <returns></returns>
+        </member>
+        <member name="M:Organizations.WebAPI.Controllers.UsersController.ForgetPassword(System.String)">
+            <summary>
+            Forget Password
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Organizations.WebAPI.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Organizations.WebAPI.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Organizations.WebAPI.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Organizations.WebAPI.Startup">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <inheritdoc />
+        </member>
+        <member name="P:Organizations.WebAPI.Startup.Configuration">
+            <inheritdoc />
+        </member>
+        <member name="M:Organizations.WebAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services">Specifies the contract for a collection of service descriptors</param>
+        </member>
+        <member name="M:Organizations.WebAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app">Define a class that provides the mechanisms to configure an application's request pipline</param>
+            <param name="env">Provides information about the web hosting environment an application is running in</param>
+        </member>
+    </members>
+</doc>
